@@ -8,5 +8,6 @@ Files in this repository include:
 * **author_search.ipynb**: Script to retrieve the Scopus Author Identifier for each author in bibliographic dataset; Jupyter Notebook
 * **article_classification.ipynb**: Script to process bibliographic dataset and classify articles as industry and non-industry affiliated; Jupyter notebook
 * **The Politics of AI Ethics_Thematic Analysis.xlsx**: 
+* **VOSviewer**: The map and network files required to re-create the term maps in VOSviewer
 
 More details here later...
