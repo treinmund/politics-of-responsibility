@@ -1,0 +1,18 @@
+label	replace by
+biase	bias
+ethic	ethics
+fairness constraint	fairness metric
+fairness criterium	fairness metric
+real data	data
+real world dataset	data
+real dataset	data
+dataset	data
+search	search engine
+trade	trade off
+tradeoff	trade off
+ethical concern	ethical issue
+human being	human
+robots	robot
+robotic	robot
+general data protection regulation	gdpr
+privacy concern	privacy risk
