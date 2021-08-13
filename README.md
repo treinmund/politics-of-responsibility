@@ -1,4 +1,4 @@
-# The Politics of AI Ethics
+# A tenuous dichotomy: The role of industry in AI ethics research
 This repository includes the code for my Master's dissertation at University College London.
 
 My project analyses the effects of industry collaboration and sponsorship on AI ethics research.  Using bibliographic data, I contrast research topics, study designs, and conclusions put forth by industry and non-industry affiliated researchers.
