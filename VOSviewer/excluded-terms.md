@@ -2,7 +2,6 @@
 
 ## Non-industry term map
 | Term                       | Occurrences  |
-| machine learning algorithm | 14           |
 | -------------------------- |:------------:|
 | algorithm                  | 287          |
 | fairness                   | 256          |
