@@ -28,3 +28,15 @@
 | future work                | 10           |
 | http                       | 10           |
 | iii                        | 10           |
+
+## Industry term map
+| Term                    | Occurrences  |
+| ----------------------- |:------------:|
+| ai system               | 23           |
+| article                 | 15           |
+| artificial intelligence | 23           |
+| gap                     | 14           |
+| http                    | 10           |
+| recent work             | 11           |
+| thing                   | 11           |
+| workshop                | 11           |
