@@ -1,7 +1,6 @@
 # The politics of responsibility: Does industry affect AI ethics research?
 
-
-This repository includes the code and supplementary for my Master's dissertation at University College London.
+This repository includes the code and supplementary material for my Master's dissertation at University College London.
 
 Files in this repository include:
 
